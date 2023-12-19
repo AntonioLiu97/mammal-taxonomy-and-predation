@@ -1,5 +1,5 @@
 ### Mammal Taxonomy and Predation Relations
-![2D Visualization](./disco.png)
+![2D Visualization](./disco1.png)
 This is an augumented dataset from the paper [entailment cone](https://github.com/dalab/hyperbolic_cones/tree/master/data/maxn).
 This dataset has two sets of relations: taxonomic relations and predation relations. While taxnomic relations are conveniently
 available as part of the word-net, and serve as popular benchmarks across hyperbolic embedding literature,
